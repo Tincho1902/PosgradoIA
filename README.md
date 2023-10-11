@@ -12,6 +12,7 @@ AI-Specialization - UBA (Universidad Nacional de Buenos Aires) - NLP Projects
 ## Next word prediction
 
 ## Sentiment analysis with Embeddings + LSTM
+Colab: [Sentiment analysis](https://github.com/Tincho1902/PosgradoIA/blob/main/5-clothing-ecommerce-reviews.ipynb)
 
 ![img1](images/Sentiment%20analisis.jfif)
 
