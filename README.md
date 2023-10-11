@@ -5,6 +5,9 @@ AI-Specialization - UBA (Universidad Nacional de Buenos Aires) - NLP Projects
 
 ## TextVectorization
 
+![img1](images/TextVectorization.jpeg)
+
+
 ## Information Retrieval System with NLTK
 
 ## Custom embedddings with Gensim
