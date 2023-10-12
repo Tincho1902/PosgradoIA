@@ -12,6 +12,8 @@ Colab: [TextVectorization](https://github.com/Tincho1902/PosgradoIA/blob/main/1a
 ## Information Retrieval System with NLTK
 Colab: [Information Retrieval System](https://github.com/Tincho1902/PosgradoIA/blob/main/2c%20-%20bot_tfidf_nltk.ipynb)
 
+![img1](images/InfoRetrivalSys.jpg)
+
 ## Custom embedddings with Gensim
 Colab: [Custom embedddings](https://github.com/Tincho1902/PosgradoIA/blob/main/3b_Custom_embedding_con_Gensim.ipynb)
 
