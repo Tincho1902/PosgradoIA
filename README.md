@@ -20,6 +20,28 @@ Link to colab: **[Information Retrieval System](https://github.com/Tincho1902/Po
 ![img1](images/3.png)
 Link to colab: **[Custom embedddings](https://github.com/Tincho1902/PosgradoIA/blob/main/3b_Custom_embedding_con_Gensim.ipynb)**
 
+Custom embeddings with Gensim are word embeddings that can be train on text data using Python library. Gensim is an open source library that provides various tools and resources for natural language processing, such as topic modeling, text summarization, and word embedding. 
+
+To create custom embeddings with Gensim:
+
+- **Preprocess text data**: You need to clean, tokenize, normalize, and stem your text data to remove noise and reduce the vocabulary size.
+- **Choose a word embedding model**: You need to select a word embedding model that suits your task and data, such as Word2Vec, FastText, or GloVe. Gensim provides implementations of these models that you can use or modify.
+- **Train word embedding model**: You need to train your word embedding model on your text data using Gensim's methods and classes. You can also tune the hyperparameters, such as the vector size, the window size, the learning rate, etc.
+- **Save and load word embedding model**: You need to save your word embedding model in a file format that you can later load and use for other applications. Gensim supports various file formats, such as binary, text, or pickle.
+
+Origin:
+(1) NLP - Custom word-embeddings in gensim - Stack Overflow. 
+
+https://stackoverflow.com/questions/72108143/custom-word-embeddings-in-gensim.
+
+(2) How to Develop Word Embeddings in Python with Gensim.
+
+https://machinelearningmastery.com/develop-word-embeddings-python-gensim/.
+
+(3) Custom Gensim Embeddings in Rasa | The Rasa Blog | Rasa. 
+
+https://rasa.com/blog/custom-gensim-embeddings-in-rasa/.
+
 ## Next word prediction
 
 ![img1](images/4.png)
