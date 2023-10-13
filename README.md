@@ -62,17 +62,11 @@ To create custom embeddings with Gensim:
 
 Origin:
 
-(1) NLP - Custom word-embeddings in gensim - Stack Overflow. 
+(1) [NLP - Custom word-embeddings in gensim - Stack Overflow.](https://stackoverflow.com/questions/72108143/custom-word-embeddings-in-gensim)
 
-https://stackoverflow.com/questions/72108143/custom-word-embeddings-in-gensim.
+(2) [How to Develop Word Embeddings in Python with Gensim.](https://machinelearningmastery.com/develop-word-embeddings-python-gensim/)
 
-(2) How to Develop Word Embeddings in Python with Gensim.
-
-https://machinelearningmastery.com/develop-word-embeddings-python-gensim/.
-
-(3) Custom Gensim Embeddings in Rasa | The Rasa Blog | Rasa. 
-
-https://rasa.com/blog/custom-gensim-embeddings-in-rasa/.
+(3) [Custom Gensim Embeddings in Rasa | The Rasa Blog | Rasa.](https://rasa.com/blog/custom-gensim-embeddings-in-rasa/)
 
 ## Next word prediction
 
@@ -100,26 +94,6 @@ Origin:
 
 https://github.com/topics/next-word-prediction.
 
-(2) Next Word Prediction with Deep Learning Models | SpringerLink. 
-
-https://link.springer.com/chapter/10.1007/978-3-031-09753-9_38.
-
-(3) Next Word Prediction Model using Python | Aman Kharwal. 
-
-https://thecleverprogrammer.com/2023/07/17/next-word-prediction-model-using-python/.
-
-(4) Next Word Prediction with Deep Learning Models | SpringerLink. 
-
-https://link.springer.com/chapter/10.1007/978-3-031-09753-9_38.
-
-(5) Exploring the Next Word Predictor! - Towards Data Science. 
-
-https://towardsdatascience.com/exploring-the-next-word-predictor-5e22aeb85d8f.
-
-(6) Stacked Language Models for an Optimized Next Word Generation. 
-
-https://ieeexplore.ieee.org/document/9845545.
-
 
 ## Sentiment analysis with Embeddings + LSTM
 
@@ -137,17 +111,11 @@ Some examples of applications of sentiment analysis are:
 
 Origin:
 
-(1) Sentiment analysis - Wikipedia. 
+(1) [Sentiment analysis - Wikipedia.](https://en.wikipedia.org/wiki/Sentiment_analysis)
 
-https://en.wikipedia.org/wiki/Sentiment_analysis.
+(2) [What is Sentiment Analysis? A Complete Guide for Beginners.](https://www.freecodecamp.org/news/what-is-sentiment-analysis-a-complete-guide-to-for-beginners/)
 
-(2) What is Sentiment Analysis? A Complete Guide for Beginners. 
-
-https://www.freecodecamp.org/news/what-is-sentiment-analysis-a-complete-guide-to-for-beginners/.
-
-(3) ¿Qué es el análisis de sentimiento? | Microsoft Dynamics 365. 
-
-https://dynamics.microsoft.com/es-es/ai/customer-insights/what-is-sentiment-analysis/.
+(3) [¿Qué es el análisis de sentimiento? | Microsoft Dynamics 365.](https://dynamics.microsoft.com/es-es/ai/customer-insights/what-is-sentiment-analysis/)
 
 ## Question-Answering ChatBOT with LSTM
 
@@ -156,25 +124,7 @@ Link to colab: **[ChatBOT with LSTM](https://github.com/Tincho1902/PosgradoIA/bl
 
 A chatbot to question-answering using LSTM is a chatbot that uses LSTM to encode the user's question and decode the answer from the relevant data. LSTM can help the chatbot to understand the meaning and context of the question, and generate a coherent and accurate answer. Some examples of chatbot to question-answering using LSTM are:
 
-- [Neural-chatbot](^1^): This is a GitHub repository that shows how to build a question-answer style chatbot using LSTM for language models with attention mechanism. The chatbot uses Twitter and Cornell movie subtitle datasets as the data source.
-- [Conversational_Chatbot_using_LSTM](^2^): This is another GitHub repository that shows how to create a conversational chatbot using sequence to sequence LSTM models. The chatbot uses Chatterbot Kaggle English dataset as the data source.
-- [Chatbot-Using-LSTM](^3^): This is yet another GitHub repository that shows how to implement a retrieval-based chatbot for a ticketing portal using TensorFlow and LSTM. The chatbot uses a custom dataset of queries and responses as the data source.
-- [Build a generative chatbot using recurrent neural networks (LSTM RNNs)](^4^): This is a tutorial that shows how to build a generative chatbot using LSTM RNNs and Keras. The chatbot uses a custom dataset of jokes as the data source.
-
-Origin:
-
-(1) GitHub - liambll/neural-chatbot: Chatbot with LSTM Sequence To Sequence .... 
-
-https://github.com/liambll/neural-chatbot.
-
-(2) ShrishtiHore/Conversational_Chatbot_using_LSTM - GitHub. 
-
-https://github.com/ShrishtiHore/Conversational_Chatbot_using_LSTM.
-
-(3) Chatbot-Using-LSTM - GitHub. 
-
-https://github.com/dasnikita/Chatbot-Using-LSTM.
-
-(4) Build a generative chatbot using recurrent neural networks (LSTM RNNs .... 
-
-https://hub.packtpub.com/build-generative-chatbot-using-recurrent-neural-networks-lstm-rnns/.
+- [Neural-chatbot](https://github.com/liambll/neural-chatbot): This is a GitHub repository that shows how to build a question-answer style chatbot using LSTM for language models with attention mechanism. The chatbot uses Twitter and Cornell movie subtitle datasets as the data source.
+- [Conversational_Chatbot_using_LSTM](https://github.com/ShrishtiHore/Conversational_Chatbot_using_LSTM): This is another GitHub repository that shows how to create a conversational chatbot using sequence to sequence LSTM models. The chatbot uses Chatterbot Kaggle English dataset as the data source.
+- [Chatbot-Using-LSTM](https://github.com/dasnikita/Chatbot-Using-LSTM): This is yet another GitHub repository that shows how to implement a retrieval-based chatbot for a ticketing portal using TensorFlow and LSTM. The chatbot uses a custom dataset of queries and responses as the data source.
+- [Build a generative chatbot using recurrent neural networks (LSTM RNNs)](https://hub.packtpub.com/build-generative-chatbot-using-recurrent-neural-networks-lstm-rnns/): This is a tutorial that shows how to build a generative chatbot using LSTM RNNs and Keras. The chatbot uses a custom dataset of jokes as the data source.
