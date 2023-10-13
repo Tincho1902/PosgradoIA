@@ -2,7 +2,7 @@
 
 AI-Specialization - UBA (Universidad Nacional de Buenos Aires) - NLP Projects
 
-_LLM was used to make an explanation of each topic and return the source of the data_
+_LLM were used to provide an explanation of each topic and cite the source of the data_
 
 ## TextVectorization
 
