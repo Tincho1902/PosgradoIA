@@ -8,7 +8,28 @@ AI-Specialization - UBA (Universidad Nacional de Buenos Aires) - NLP Projects
 ![img1](images/1.png)
 Link to colab: **[TextVectorization](https://github.com/Tincho1902/PosgradoIA/blob/main/1a_vectorizacion.ipynb)**
 
+Text vectorization is the process of converting text data into numerical vectors that can be used for machine learning or other applications. There are different methods of text vectorization, such as:
 
+- **Count-based methods**: These methods use the frequency or occurrence of words in a text to create vectors. For example, a bag-of-words (BoW) vector has the length of the entire vocabulary and the values represent how many times each word appears in a text. Another example is TF-IDF, which assigns higher weights to words that are more distinctive or informative in a text.
+- **Embedding methods**: These methods use neural networks or other algorithms to learn the semantic and syntactic relationships between words and create vectors that capture these meanings. For example, Word2Vec creates word vectors based on the context of words in a text. Another example is BERT, which creates word and sentence vectors based on the bidirectional context and attention mechanism.
+
+Origin:
+
+(1) tf.keras.layers.TextVectorization | TensorFlow v2.14.0. 
+
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/TextVectorization.
+
+(2) What Is Text Vectorization? Everything You Need to Know - deepset. 
+
+https://www.deepset.ai/blog/what-is-text-vectorization-in-nlp.
+
+(3) Convert SVG text to vector graphics online for free - Aspose. 
+
+https://products.aspose.app/svg/text-to-vector.
+
+(4) Text Vectorization and Word Embedding | Guide to Master NLP (Part 5). 
+
+https://www.analyticsvidhya.com/blog/2021/06/part-5-step-by-step-guide-to-master-nlp-text-vectorization-approaches/.
 
 ## Information Retrieval System with NLTK
 
