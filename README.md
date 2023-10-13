@@ -16,21 +16,13 @@ Text vectorization is the process of converting text data into numerical vectors
 
 Origin:
 
-(1) tf.keras.layers.TextVectorization | TensorFlow v2.14.0. 
+(1) [tf.keras.layers.TextVectorization | TensorFlow v2.14.0. ](https://www.tensorflow.org/api_docs/python/tf/keras/layers/TextVectorization)
 
-https://www.tensorflow.org/api_docs/python/tf/keras/layers/TextVectorization.
+(2) [What Is Text Vectorization? Everything You Need to Know - deepset.](https://www.deepset.ai/blog/what-is-text-vectorization-in-nlp)
 
-(2) What Is Text Vectorization? Everything You Need to Know - deepset. 
+(3) [Convert SVG text to vector graphics online for free - Aspose.](https://products.aspose.app/svg/text-to-vector)
 
-https://www.deepset.ai/blog/what-is-text-vectorization-in-nlp.
-
-(3) Convert SVG text to vector graphics online for free - Aspose. 
-
-https://products.aspose.app/svg/text-to-vector.
-
-(4) Text Vectorization and Word Embedding | Guide to Master NLP (Part 5). 
-
-https://www.analyticsvidhya.com/blog/2021/06/part-5-step-by-step-guide-to-master-nlp-text-vectorization-approaches/.
+(4) [Text Vectorization and Word Embedding | Guide to Master NLP (Part 5).](https://www.analyticsvidhya.com/blog/2021/06/part-5-step-by-step-guide-to-master-nlp-text-vectorization-approaches/)
 
 ## Information Retrieval System with NLTK
 
@@ -46,21 +38,13 @@ An information retrieval system is a software that can process a large collectio
 
 Origin:
 
-(1) 7 Extracting Information from Text - NLTK. 
+(1) [Extracting Information from Text - NLTK.](https://www.nltk.org/book_1ed/ch07.html)
 
-https://www.nltk.org/book_1ed/ch07.html.
+(2) [yolanda93/information_retrieval_system - GitHub](https://github.com/yolanda93/information_retrieval_system)
 
-(2) yolanda93/information_retrieval_system - GitHub. 
+(3) [nionios / Information Retrieval with NLTK · GitLab.](https://gitlab.com/nionios/information-recovery-nltk)
 
-https://github.com/yolanda93/information_retrieval_system.
-
-(3) nionios / Information Retrieval with NLTK · GitLab.
-
-https://gitlab.com/nionios/information-recovery-nltk.
-
-(4) NLTK :: Natural Language Toolkit. 
-
-https://www.nltk.org/.
+(4) [NLTK :: Natural Language Toolkit.](https://www.nltk.org/)
 
 ## Custom embedddings with Gensim
 
