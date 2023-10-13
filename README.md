@@ -20,9 +20,7 @@ Origin:
 
 (2) [What Is Text Vectorization? Everything You Need to Know - deepset.](https://www.deepset.ai/blog/what-is-text-vectorization-in-nlp)
 
-(3) [Convert SVG text to vector graphics online for free - Aspose.](https://products.aspose.app/svg/text-to-vector)
-
-(4) [Text Vectorization and Word Embedding | Guide to Master NLP (Part 5).](https://www.analyticsvidhya.com/blog/2021/06/part-5-step-by-step-guide-to-master-nlp-text-vectorization-approaches/)
+(3) [Text Vectorization and Word Embedding | Guide to Master NLP (Part 5).](https://www.analyticsvidhya.com/blog/2021/06/part-5-step-by-step-guide-to-master-nlp-text-vectorization-approaches/)
 
 ## Information Retrieval System with NLTK
 
