@@ -15,6 +15,31 @@ Link to colab: **[TextVectorization](https://github.com/Tincho1902/PosgradoIA/bl
 ![img1](images/2.png)
 Link to colab: **[Information Retrieval System](https://github.com/Tincho1902/PosgradoIA/blob/main/2c%20-%20bot_tfidf_nltk.ipynb)**
 
+An information retrieval system is a software that can process a large collection of documents and find the ones that are relevant to a user's query. Using NLTK, one can build an information retrieval system by following these steps:
+
+- Preprocess the documents and the query by tokenizing, normalizing, and removing stopwords.
+- Represent the documents and the query as vectors of term weights, using methods such as TF-IDF, LDA, LSI, or log entropy.
+- Compute the similarity between the query vector and each document vector, using measures such as cosine similarity or Jaccard coefficient.
+- Rank the documents by their similarity scores and return the top-k results to the user.
+
+Origin:
+
+(1) 7 Extracting Information from Text - NLTK. 
+
+https://www.nltk.org/book_1ed/ch07.html.
+
+(2) yolanda93/information_retrieval_system - GitHub. 
+
+https://github.com/yolanda93/information_retrieval_system.
+
+(3) nionios / Information Retrieval with NLTK · GitLab.
+
+https://gitlab.com/nionios/information-recovery-nltk.
+
+(4) NLTK :: Natural Language Toolkit. 
+
+https://www.nltk.org/.
+
 ## Custom embedddings with Gensim
 
 ![img1](images/3.png)
@@ -30,6 +55,7 @@ To create custom embeddings with Gensim:
 - **Save and load word embedding model**: You need to save your word embedding model in a file format that you can later load and use for other applications. Gensim supports various file formats, such as binary, text, or pickle.
 
 Origin:
+
 (1) NLP - Custom word-embeddings in gensim - Stack Overflow. 
 
 https://stackoverflow.com/questions/72108143/custom-word-embeddings-in-gensim.
@@ -104,6 +130,7 @@ Some examples of applications of sentiment analysis are:
 - **Healthcare**: Sentiment analysis can help to improve healthcare services and outcomes by analyzing the emotions and sentiments of patients and caregivers from various sources, such as medical records, clinical notes, online forums, etc. This can help to diagnose mental health conditions, monitor patient satisfaction and well-being, provide personalized care and support, etc.
 
 Origin:
+
 (1) Sentiment analysis - Wikipedia. 
 
 https://en.wikipedia.org/wiki/Sentiment_analysis.
